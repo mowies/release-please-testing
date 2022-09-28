@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.0](https://github.com/mowies/release-please-testing/compare/v0.0.1...v0.1.0) (2022-09-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* Deleted a file
+
+### Features
+
+* Deleted a file ([b992454](https://github.com/mowies/release-please-testing/commit/b992454ff076cc22dbb798818d2c8c656ab0e642))
+* new file ([e6d00cc](https://github.com/mowies/release-please-testing/commit/e6d00cc02fda1e148530690eaf52bac3c6b3349b))
+* some other new file ([51a06f1](https://github.com/mowies/release-please-testing/commit/51a06f1046e0f2062cc68f65565c11b7397f06f8))
+
 ## 0.0.1 (2022-09-28)
 
 
